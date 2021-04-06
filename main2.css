@@ -1,0 +1,14 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    margin-top: 10px;
+}
+body {
+    background-image: url("simbahannya.jpg"), url("simbahannya.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+*{
+    color: white;
+}
